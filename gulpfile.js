@@ -118,4 +118,8 @@ gulp.task('images', function () {
 
 gulp.task('default', ['html', 'json', 'coffee', 'js', 'compass', 'images', 'connect', 'watch']);
 
-/* adding a comment for git test */
+/* adding a comment for git branch testing */
+/* adding a comment for git branch testing */
+/* adding a comment for git branch testing */
+/* adding a comment for git branch testing */
+/* adding a comment for git branch testing */
